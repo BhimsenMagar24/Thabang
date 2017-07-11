@@ -1,0 +1,12 @@
+.navbar a{
+	color: white;
+}
+.nav li a:hover{
+	background: orange;
+}
+.navbar-default{
+	background-color: lightblue;
+}
+body{
+	background: silver;
+}
